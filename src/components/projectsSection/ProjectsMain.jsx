@@ -29,7 +29,7 @@ const projects = [
     name: "Coffee Shop",
     year: "web app",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: "../../assets/images/website-img-4.jpg",
     link: "https://coffee-shop-2v8lppypb-amina-elahi-sarders-projects.vercel.app/",
   },
 ];
